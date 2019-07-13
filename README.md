@@ -1,4 +1,4 @@
-# webpack-svg-sprite
+# webpack-svg-sprite-wrapper
 A wrapper around [svg-sprite](https://jkphl.github.io/svg-sprite/) for Webpack. 
 
 ## Notes
@@ -7,7 +7,7 @@ This is a quick'n'dirty Webpack plugin to get an old project (5+ years) to work 
 ## Usage
 ```
 // webpack.config.js
-const SvgSpritePlugin = require('../webpack-svg-sprite')
+const SvgSpritePlugin = require('webpack-svg-sprite-wrapper')
 
 module.exports = {
     plugins: [
