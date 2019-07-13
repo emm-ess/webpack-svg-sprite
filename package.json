@@ -1,7 +1,7 @@
 {
-    "name": "webpack-svg-sprite-plugin",
+    "name": "webpack-svg-sprite-wrapper",
     "version": "0.0.1",
-    "description": "A plugin around svg-sprite for Webpack.",
+    "description": "A wrapper around svg-sprite for Webpack.",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
