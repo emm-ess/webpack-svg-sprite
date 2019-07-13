@@ -1,0 +1,30 @@
+{
+    "name": "webpack-svg-sprite-plugin",
+    "version": "0.0.1",
+    "description": "A plugin around svg-sprite for Webpack.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/emm-ess/webpack-svg-sprite.git"
+    },
+    "keywords": [
+        "svg-sprite",
+        "webpack"
+    ],
+    "author": "Marten Schälicke",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/emm-ess/webpack-svg-sprite/issues"
+    },
+    "homepage": "https://github.com/emm-ess/webpack-svg-sprite#readme",
+    "dependencies": {
+        "globby": "^10.0.1",
+        "svg-sprite": "^1.5.0"
+    },
+    "peerDependencies": {
+        "webpack": "^4.0.1"
+    }
+}
